@@ -1,5 +1,5 @@
 # Application Tracking System(ATS)
- An intelligent Application Tracking System that evaluates resumes based on job descriptions using Google's Generative AI.
+ An intelligent Application Tracking System that evaluates resumes based on job descriptions using Google's Generative AI:Gemini-Pro AI model.
  <p align="center">
   <img src="https://github.com/esha1231/Application-Tracking-System-ATS/assets/111673084/f440636b-25ec-4ee6-8159-47fa164175b1" width="600">
   <img src="https://github.com/esha1231/Application-Tracking-System-ATS/assets/111673084/3507ad82-4ab4-476d-b429-1b843fce414f" width="600">
